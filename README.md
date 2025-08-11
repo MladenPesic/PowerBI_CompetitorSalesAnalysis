@@ -69,7 +69,10 @@ The final model follows a **snowflake schema** with custom keys and calculated r
 
 ## 📸 Report Preview
 
-> You can add screenshots or animated GIFs here. For example:
+![CompetitorSalesAnalysis](Report/Report_pages/CompetitorSalesAnalysis.png)
+
+
+![AI_Analysis](Report/Report_pages/AI_Analysis.png)
 
 
 ---
